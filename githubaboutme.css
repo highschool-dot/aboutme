@@ -1,0 +1,77 @@
+button {
+    transform:  rotate(-6deg);
+    color: blue;
+    text-align: center;
+    border-radius: 10px;
+    background-color: yellow;
+
+}
+
+span {
+    text-align: center;
+}
+.name {
+    margin: 50px;
+    background-color: yellow;
+    color: blue;
+    border-radius: 1px;
+    width: 200px;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+.single {
+    text-align: center;
+    margin-top: -50px;
+}
+
+.Aboutme {
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding: 20px;
+    padding-top: 10px;
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+    box-shadow: 6px 6px 0;
+    background-color: gray;
+}
+
+.favorite {
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding: 20px;
+    padding-top: 10px;
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+    box-shadow: 6px 6px 0;
+    background-color: gray;
+}
+
+.goals { 
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding: 40px;
+    padding-top: 10px;
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+    box-shadow: 6px 6px 0;
+    background-color: gray;
+}
+
+.links { 
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding: 20px;
+    padding-top: 10px;
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+    box-shadow: 6px 6px 0;
+    background-color: gray;
+}
